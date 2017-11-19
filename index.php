@@ -105,7 +105,7 @@
         }
 
         //hasil
-        echo 'Vektor ke - ' . $i . ' berada di cluster ' . $d;
+        echo 'Vektor ke - ' . ($i + 1) . ' berada di cluster ' . $d;
         echo '<br>';
     }
 
